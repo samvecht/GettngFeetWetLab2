@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GettngFeetWetLab</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_send">Send</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
